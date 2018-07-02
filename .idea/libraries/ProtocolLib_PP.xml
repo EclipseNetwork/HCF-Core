@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ProtocolLib PP">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dependencies/ProtocolLib PP.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
